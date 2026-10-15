@@ -151,8 +151,9 @@ The notebook uses only **NumPy, pandas, Matplotlib, and Jupyter Notebook**; no e
 - `HW7.ipynb` — executable analysis (Parts A and B; includes optional SIR reference).
 - `figures/` — exported result figures.
 - `requirements.txt` — Python dependencies.
-- `hypothesis.pdf` — original handwritten hypothesis (**add your own file**).
-- `slide.pdf` — one-slide summary prepared by the author (**add your own file**).
+- `hypothesis.pdf` — original hypothesis (forgot write by hand).
+- `hypothesis.docx` — original hypothesis.
+- `slide.pdf` — one-slide summary.
 
 ## AI use statement
 
