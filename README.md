@@ -152,7 +152,7 @@ The notebook uses only **NumPy, pandas, Matplotlib, and Jupyter Notebook**; no e
 - `figures/` — exported result figures.
 - `requirements.txt` — Python dependencies.
 - `hypothesis.pdf` — original hypothesis (forgot write by hand).
-- `hypothesis.docx` — original hypothesis.
+- `HW7_Initial_Hypothesis.docx` — original hypothesis.
 - `slide.pdf` — one-slide summary.
 
 ## AI use statement
